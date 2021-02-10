@@ -2,3 +2,12 @@ body{
 	margin: 0;
 	padding: 0;
 }
+.slider{
+	width: 100%;
+	position: absolute;
+	top: 50px;
+}
+header{
+	background: orange;
+	height: 100vh;
+}
